@@ -1,8 +1,8 @@
 # FAIR-ML
 
-I work for pymetrics.com, a company that specializes in reducing algorithmic bias in the hiring process. I've done quite a bit of work on tools to monitor, mitigate and report on bias, including the open-sourced package [audit-ai](https://github.com/pymetrics/audit-ai), and pymetrics' work on [auditing machine learning algorithms for fair outcomes](https://dl.acm.org/doi/pdf/10.1145/3442188.3445928).
+I work for [pymetrics](https://www.pymetrics.ai/), a company that specializes in reducing algorithmic bias in the hiring process. I've done quite a bit of work on tools to monitor, mitigate and report on bias, including the open-sourced package [audit-ai](https://github.com/pymetrics/audit-ai), and pymetrics' work on [auditing machine learning algorithms for fair outcomes](https://dl.acm.org/doi/pdf/10.1145/3442188.3445928).
 
-I'm using this repo as a collection of ideas for fair ML projects that are outside the scope (and IP) of pymetrics, and are broader than the intended use of audi-ai. All ideas are my own, and are fair game for others provided you give proper citation according to the Apache 2 license.
+I'm using this repo as a collection of ideas for fair ML project ideas that are outside the scope (and IP) of pymetrics, and are broader than the intended use of audi-ai. All ideas are my own, and are fair game for others provided you give proper citation according to the MIT general license.
 
 Also, just about every project like this is called "fair-ml", so I'm going to have to think of something more clever before this gets too big.
 
